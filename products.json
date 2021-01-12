@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Tatooine Pullover Hoodie",
+    "image": "/images/product_1.jpg",
+    "price": "$60.22"
+  },
+  {
+    "id": 2,
+    "title": "Welcome to Tatooine Hardcover Journal",
+    "image": "/images/product_2.jpg",
+    "price": "$20.00"
+  },
+  {
+    "id": 3,
+    "title": "Welcome to Tatooine Poster",
+    "image": "/images/product_3.jpg",
+    "price": "$12.50"
+  }
+]
